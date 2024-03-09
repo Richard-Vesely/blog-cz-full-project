@@ -10,7 +10,7 @@ Poslední dobou jsem často dostal chuť sepsat nějaké své myšlenky a pocity
 ### Důvody k nepsaní
 Napadají mě dva důvody, proč bych se mohl necítit motivovaně ke psaní, přestože mi představa psaní přijde fajn:  
 1) Psaní by mě ve skutečnosti nebavilo. Možná je to jen další příklad mé snahy najít něco, co bych mohl dělat "pro uznání ostatních". 
-2) Psaní by mě ve skutečnosti bavilo, ale mám kolem něj spoustu strachů, které mě zastavují. Např, že nebudu schopný formulovat svoje myšlenky. Že to, co napíšu, je "prostě divné". Že nebudu psát o tématech, která budou "nejlepší" (nejvíc mě bavit, přínosná o někho) atp.
+2) Psaní by mě ve skutečnosti bavilo, ale mám kolem něj spoustu strachů, které mě zastavují. Např, že nebudu schopný formulovat svoje myšlenky. Že to, co napíšu, je "prostě divné". Že nebudu psát o tématech, která budou "nejlepší" (nejvíc mě bavit, přínosná pro někoho) atp.
 ### Možná řešení
 Kdyby důvod k nepsaní byl (1), tak řešením je:  
 - nenutit se ke psaní
@@ -34,6 +34,7 @@ Ale ta heuristika, že "dokopávání je špatné" je zkratkovitá a neplatí v�
 3. Nastavím časovač na 10 minut
 4. Začnu psát o čemkoliv
 5. Až vyprší časovač, tak se zeptám, jak se v tom cítím a podle toho pokračuji nebo ne.  
+
 ### A co Vy?
 Celkem by mě zajímalo, jestli se Vám také stává, že byste někdy zároveň  
 1. měli volný čas 
